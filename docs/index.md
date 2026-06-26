@@ -1,34 +1,9 @@
----
-icon: lucide/rocket
----
-# 标题测试
+# MAShiroArtifical 椎铭工造
 
-正文字体测试
+- 这里是 JRNitre 的个人资料库，访问我的个人博客 👉 [JRNitre 的个人博客](https://blog.atoery.cn/)
 
-# 代码测试
+- 想联系我 👉 `hi@jrnitre.cn`
 
-```
-printf("你好世界");
-```
+> 快速访问
 
-# 测试标题 2
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
+- [终端代理](other/terminal_proxy.md)

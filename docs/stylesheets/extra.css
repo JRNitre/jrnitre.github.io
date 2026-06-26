@@ -13,3 +13,82 @@
   font-style: normal;
   font-display: swap;
 }
+
+.proxy-command-tool {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1rem 0 1.5rem;
+  max-width: 100%;
+}
+
+.proxy-command-tool label {
+  font-weight: 700;
+}
+
+.proxy-command-tool input {
+  box-sizing: border-box;
+  width: min(14rem, 100%);
+  padding: 0.55rem 0.7rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-code-bg-color);
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  font: inherit;
+}
+
+.proxy-platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.proxy-platforms button {
+  padding: 0.35rem 0.7rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-code-bg-color);
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.proxy-platforms button.active {
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+}
+
+.proxy-command-block {
+  overflow: hidden;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.35rem;
+}
+
+.proxy-command-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.45rem 0.7rem;
+  background: var(--md-code-bg-color);
+  border-bottom: 0.05rem solid var(--md-default-fg-color--lightest);
+}
+
+.proxy-command-header span {
+  font-weight: 700;
+}
+
+.proxy-command-header button {
+  padding: 0.3rem 0.65rem;
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+  border: 0;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.proxy-command-block pre {
+  margin: 0;
+  border-radius: 0;
+}
