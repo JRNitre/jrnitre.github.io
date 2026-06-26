@@ -1,0 +1,41 @@
+# 临时文件和目录
+temp/
+tmp/
+*.tmp
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# AI 相关文件
+.claude
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# 日志文件
+*.log
+
+# Zensical
+site
