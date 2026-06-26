@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "HarmonyOS";
+  src: url("../fonts/HarmonyOS_Sans_SC_Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MapleMono";
+  src: url("../fonts/MapleMonoNormal-CN-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
