@@ -4,10 +4,19 @@ nav = [
     {"首页" = "index.md"},
     {"编辑手册" = "zensical_markdown.md"},
     {"待办" = "to-do.md"},
+    {"临时" = [
+      {"Voron" = "other/voron_project.md"},
+    ]},
   ]},
+
   {"RadioFrequency" = [
     {"测试页面" = "rf/rf_text.md"}
   ]},
+
+  {"Embedded" = [
+    {"测试页面" = "embedded/embedded_text.md"}
+  ]},
+  
   {"其它" = [
     {"配置终端代理" = "other/terminal_proxy.md"}
   ]}
