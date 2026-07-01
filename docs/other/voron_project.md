@@ -4,7 +4,7 @@ icon: lucide/sliders-horizontal
 
 # Voron v2.4R2
 
-> 合计开销 `504.24`
+> 合计开销 `1024.24`
 
 - [x] MiSUMi 平替铝型材 - `222¥`
 - [x] 铝型材补充购买 - `31¥`
