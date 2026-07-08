@@ -10,11 +10,16 @@ nav = [
   ]},
 
   {"RadioFrequency" = [
-    {"测试页面" = "rf/rf_text.md"}
+    # {"测试页面" = "rf/rf_text.md"},
+    {"射频与高速数字基础" = "rf/射频与高速数字基础.md"}
   ]},
 
   {"Embedded" = [
     {"测试页面" = "embedded/embedded_text.md"}
+  ]},
+
+  {"Aerospace" = [
+    {"测试页面" = "aerospace/aerospace.md"}
   ]},
   
   {"其它" = [
