@@ -7,3 +7,4 @@
 > 快速访问
 
 - [终端代理](other/terminal_proxy.md)
+- [AWG与mm线径&电流换算](embedded/awgtomm.md)

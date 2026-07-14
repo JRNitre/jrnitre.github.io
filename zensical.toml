@@ -15,7 +15,9 @@ nav = [
   ]},
 
   {"Embedded" = [
-    {"测试页面" = "embedded/embedded_text.md"}
+    {"快速查阅" = [
+      {"AWG与mm线径&电流换算" = "embedded/awgtomm.md"}
+    ]}
   ]},
 
   {"Aerospace" = [
