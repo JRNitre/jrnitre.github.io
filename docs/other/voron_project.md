@@ -4,7 +4,7 @@ icon: lucide/sliders-horizontal
 
 # Voron v2.4R2
 
-> 合计开销 `1640.19`
+> 合计开销 `1923.53¥`
 
 - [x] MiSUMi 平替铝型材 - `222¥`
 - [x] 铝型材补充购买 - `31¥`
@@ -14,3 +14,5 @@ icon: lucide/sliders-horizontal
 - [x] BIGTREETECH Octopus八爪鱼3D打印机主板 - `268¥`
 - [x] 深圳雷赛 42CM06 步进电机 * 4 - `247¥`
 - [x] TMC2209 步进电机驱动模块 * 7 - `100.95¥`
+- [x] 紧固件 - `60.34¥`
+- [x] 导轮、皮带套件 - `223¥`
