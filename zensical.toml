@@ -3,6 +3,7 @@ nav = [
   {"MAA" = [
     {"首页" = "index.md"},
     {"编辑手册" = "zensical_markdown.md"},
+    {"GitConventionalCommits" = "git_conventional_commits.md"},
     {"待办" = "to-do.md"},
     {"临时" = [
       {"Voron" = "other/voron_project.md"},
