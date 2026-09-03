@@ -1,3 +1,7 @@
+---
+icon: lucide/git-pull-request-arrow
+---
+
 # Git 提交书写规范
 
 ## 核心格式
