@@ -27,7 +27,6 @@ __pycache__/
 venv/
 env/
 ENV/
-.venv
 
 # Node.js
 node_modules/
