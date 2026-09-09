@@ -21,3 +21,9 @@ icon: lucide/sliders-horizontal
 - [x] 紧固件 - `38¥`
 - [x] Deck 亚克力面板 - `40¥`
 - [x] 橡胶脚垫 - `6.89¥`
+
+## 组装过程
+
+![](https://image.jrnitre.cn/2026/09/57c8011e9ce559538afbfcd78677fe33.png)
+
+> 之前的忘记拍摄了，先来张图片同步一下进度吧
