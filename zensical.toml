@@ -59,8 +59,10 @@ features = [
     "navigation.path",
     "toc.integrate",
     "navigation.top",
+    "content.tooltips",
     "content.code.copy"
 ]
+  
 
 [project.theme.icon]
 repo = "fontawesome/brands/github"
@@ -94,7 +96,10 @@ pymdownx.tilde = {}
 pymdownx.snippets = {}
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.details = {}
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
 attr_list = {}
 md_in_html = {}
 def_list = {}
 admonition = {}
+abbr = {}
